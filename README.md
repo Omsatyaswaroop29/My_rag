@@ -1,6 +1,4 @@
-Sure! Here's the enhanced version of your README.md file with all the details integrated into one document:
 
-```markdown
 # Intelligent Chatbot Application
 
 Welcome to the Intelligent Chatbot Application! This Streamlit-based chatbot utilizes OpenAI's GPT models for generating responses and Pinecone's vector database for storing and retrieving document embeddings. It's designed to provide users with intelligent responses based on the content from indexed documents loaded into Pinecone.
